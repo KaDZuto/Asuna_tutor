@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Asuna Math Tutor
+Comment=AI tutor for differential equations and mathematical physics
+Exec=asuna-math-tutor
+Terminal=false
+Type=Application
+Categories=Education;Science;Math;Utility;
+Keywords=math;equations;PDE;ODE;Asuna;tutor;

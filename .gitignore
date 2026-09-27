@@ -1,0 +1,27 @@
+# Зависимости
+node_modules/
+
+# Арт Asuna (Live2D) не распространяется вместе с кодом.
+# Движок и модели кладутся сюда вручную — см. README, раздел «Аватар».
+resources/libs/
+resources/models/
+resources/models_manifest.json
+
+# Артефакты сборки и упаковки
+dist/
+build/
+out/
+*.AppImage
+*.deb
+*.rpm
+
+# Python-окружение TTS-сервера
+server/venv/
+__pycache__/
+*.pyc
+
+# Локальные данные и секреты
+.env
+*.log
+.DS_Store
+Thumbs.db
